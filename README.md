@@ -4,7 +4,7 @@ Combine是苹果发布的响应式框架，iOS13一起发布的，所以最低iO
 做了一个简单登录界面的异步处理演示。
 
 
-![image.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6ae1c263aa27468b96ad2d4b8275f305~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=684\&h=1360\&s=3672212\&e=gif\&f=273\&b=52858f)
+![image.gif](./demo_image.gif)
 
 
 ## 页面逻辑说明：
